@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **...**
 
-💬 Ask me about **Node.js, Java, PHP,... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Node.js, Java, PHP,... or anything [here](https://github.com/vntakeshi29/vntakeshi29/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
